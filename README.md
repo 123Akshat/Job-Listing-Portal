@@ -1,4 +1,5 @@
 <div align="center">
+![4](https://github.com/123Akshat/Job-Listing-Portal/assets/103346687/39894b90-cad7-439f-8378-be4cf1c715ed)
 
   <h3 align="center">React Native Job Finder App</h3>
 
